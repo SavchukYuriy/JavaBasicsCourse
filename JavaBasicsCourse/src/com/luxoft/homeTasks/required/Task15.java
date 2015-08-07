@@ -5,8 +5,11 @@ public class Task15
     /*
      * @Author: Savchuk Yuriy
      * 
-     * 15.	Дано целое положительное число. Проверить истинность высказывания: 
-     * «Данное число является нечетным трехзначным».
+     *15.	Дано целое положительное число. Проверить истинность высказывания: 
+     *«Данное число является нечетным трехзначным» .
+     *
+     *Task in English:
+     *15. We have odd integer. Check if is true: "This number is three-digit odd." 
      */
     public static void main(String[] args)
     {
